@@ -281,7 +281,7 @@
 </div>
 
 <script>
-// Chatbot functionality with your API key
+
 
 
 // DOM elements
