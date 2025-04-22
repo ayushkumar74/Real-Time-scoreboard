@@ -282,7 +282,7 @@
 
 <script>
 // Chatbot functionality with your API key
-const GEMINI_API_KEY = 'AIzaSyBrBis7iOUKAWkWh3_yRfSy4H4HAYU0f90';
+
 
 // DOM elements
 const chatIcon = document.getElementById('chatbot-icon');
